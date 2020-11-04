@@ -20,7 +20,7 @@ import com.tyf.strategy.SimpleFactoryContext;
 public class Main {
 
     public static void main(String[] args) {
-        decorator();
+        chainOfResp();
     }
 
 
